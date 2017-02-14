@@ -1,2 +1,2 @@
 # ga-dat7-weather
-Data Science Weather prediction
+Data Science Weather Homework week2
